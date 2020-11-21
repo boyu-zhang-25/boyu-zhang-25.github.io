@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV here](http://boyu-zhang-25.github.io/files/Boyu_Zhang_CV.pdf)
+
+
 <!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
