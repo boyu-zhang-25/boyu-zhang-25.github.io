@@ -12,4 +12,4 @@ Accepted to JMIR Mental Health. To appear.
 
 [Download paper here](https://preprints.jmir.org/preprint/24012/accepted)
 
-Recommended citation: Zhang B, Zaman A, Silenzio V, Kautz H, Hoque E (2020). "The Relationships of Deteriorating Depression and Anxiety with Longitudinal Behavioral Changes in Google and YouTube Usages among College Students in the United States during COVID-19: Observational Study." <i>JMIR Mental Health</i>. 1(1).
+<!-- Recommended citation: Zhang B, Zaman A, Silenzio V, Kautz H, Hoque E (2020). "The Relationships of Deteriorating Depression and Anxiety with Longitudinal Behavioral Changes in Google and YouTube Usages among College Students in the United States during COVID-19: Observational Study." <i>JMIR Mental Health</i>. 1(1). -->
