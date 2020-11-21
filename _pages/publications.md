@@ -10,7 +10,7 @@ author_profile: true
 
 ## 2020
 
-* [The Relationships of Deteriorating Depression and Anxiety with Longitudinal Behavioral Changes in Google and YouTube Usages among College Students in the United States during COVID-19: Observational Study]() <br>
+* [The Relationships of Deteriorating Depression and Anxiety with Longitudinal Behavioral Changes in Google and YouTube Usages among College Students in the United States during COVID-19: Observational Study](https://preprints.jmir.org/preprint/24012/) <br>
 <b>Boyu Zhang</b>, Anis Zaman, Vincent Silenzio, Henry Kautz, and Ehsan Hoque. To appear in <i>JMIR Mental Health</i> (Nov. 2020).
 
 
