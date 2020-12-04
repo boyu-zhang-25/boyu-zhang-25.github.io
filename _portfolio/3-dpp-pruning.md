@@ -1,6 +1,6 @@
 ---
 title: "Understanding Diversity-based Pruning of Neural Networks -- Statistical Mechanical Analysis"
-excerpt: "Despite multitude of empirical advances, there is no theoretical understanding of the effectiveness of different pruning methods. We address this issue by setting up the problem in the statistical mechanics formulation of a teacher-student framework and deriving generalization error (GE) bounds of specific pruning methods.<br/><img src='/images/dpp-pruning' width='500' height='300'>"
+excerpt: "Despite multitude of empirical advances, there is no theoretical understanding of the effectiveness of different pruning methods. We address this issue by setting up the problem in the statistical mechanics formulation of a teacher-student framework and deriving generalization error (GE) bounds of specific pruning methods.<br/><img src='/images/dpp-pruning.png' width='500' height='300'>"
 collection: portfolio
 ---
 
