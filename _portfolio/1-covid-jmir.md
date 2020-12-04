@@ -1,6 +1,6 @@
 ---
 title: "The Relationships of Deteriorating Depression and Anxiety With Longitudinal Behavioral Changes in Google and YouTube Use During COVID-19: Observational Study"
-excerpt: "The goal of this study is to examine, among college students in the United States, the relationships of deteriorating depression and anxiety conditions with the changes in user behaviors when engaging with Google Search and YouTube during COVID-19.<br/><img src='/images/COVID-19-JMIR-pic.jpeg' width='500' height='300'>"
+excerpt: "The goal of this study is to examine, among college students in the United States, the relationships of deteriorating depression and anxiety conditions with the changes in user behaviors when engaging with Google Search and YouTube during COVID-19.<br/><img src='/images/COVID-19-JMIR-pic.jpeg' width='500' height='300' class="center">"
 collection: portfolio
 ---
 
@@ -15,3 +15,6 @@ collection: portfolio
 - **Results**: Of the 49 participants, 49% (n=24) of them reported an increase in the PHQ-9 depression scores; 53% (n=26) of them reported an increase in the GAD-7 anxiety scores. The results showed that a number of online behavior features were significantly correlated with deteriorations in the PHQ-9 scores (r ranging between –0.37 and 0.75, all P values less than or equal to .03) and the GAD-7 scores (r ranging between –0.47 and 0.74, all P values less than or equal to .03). Simple machine learning models were shown to be useful in predicting the change in anxiety and depression scores (mean squared error ranging between 2.37 and 4.22, R2 ranging between 0.68 and 0.84) with the proposed features.
 
 - **Conclusions**: The results suggested that deteriorating depression and anxiety conditions have strong correlations with behavioral changes in Google Search and YouTube use during the COVID-19 pandemic. Though further studies are required, our results demonstrate the feasibility of using pervasive online data to establish noninvasive surveillance systems for mental health conditions that bypasses many disadvantages of existing screening methods.
+
+- Please see our at JMIR Mental Health [here](https://mental.jmir.org/2020/11/e24012). 
+
