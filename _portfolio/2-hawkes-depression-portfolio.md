@@ -1,6 +1,6 @@
 ---
 title: "A Multivariate Hawkes Process for Detecting Individuals with Depressive Disorder"
-excerpt: "We propose a personalized framework for classifying individuals with and without depression symptoms based on mutual-exciting point process that captures both the temporal and semantic aspects of online activities.<br/><img src='/images/hawkes-depression.png' width='50%' height='50%'>"
+excerpt: "We propose a personalized framework for classifying individuals with and without depression symptoms based on mutual-exciting point process that captures both the temporal and semantic aspects of online activities.<br/><img src='/images/hawkes-depression.png' width='500' height='300'>"
 collection: portfolio
 ---
 
@@ -13,4 +13,4 @@ collection: portfolio
 - Please see our lightning talk at the NeurIPS 2020 Workshop on Machine Learning for Public Health [here](https://sites.google.com/nyu.edu/mlph2020/accepted-papers). The paper can be found [here](https://arxiv.org/abs/2010.15670). 
 
 
- <font size="2"> Image by [Steve Morse](https://github.com/stmorse/hawkes) </font>
+>Image by [Steve Morse](https://github.com/stmorse/hawkes)
