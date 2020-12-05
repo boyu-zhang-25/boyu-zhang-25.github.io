@@ -12,7 +12,7 @@ By [Prof. Aaron Steven White](http://aaronstevenwhite.io/) and me :)
 
 [The Formal And CompuTational Semantics lab (FACTS.lab)](http://factslab.io/)
 
-University of Rochester, Fall 2019
+University of Rochester, Summer 2019
 
 # Result Visualization
 
