@@ -8,7 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Please see my publications and portfolio for more information. 
+Hi, I am Boyu. I am a fourth-year undergraduate student at the University of Rochester, pursuing a B.S. in Computer Science ([Honors Track](https://www.cs.rochester.edu/undergraduate/degree-requirements.html)). At U of R, I have the honor to work closely with Professor [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Professor [Ehsan Hoque](https://hoques.com/), and Dr. [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). In the past, I have worked with Professor [Daniel Štefankovič](https://www.cs.rochester.edu/~stefanko/) and Professor [Aaron Steven White](http://aaronstevenwhite.io/).
+
+My research interest lies in Ubiquitous and Pervasive Computing, Human-Computer Interaction, and Machine Learning. For the past several years, my projects have focused on 
+
+* Mining pervasive online data to construct personalized mental disorder (anxiety, depression, and suicide ideation) tracking systems, and 
+
+* Developing explicable machine learning models with inductive biases inspired by clinical psychology and behavioral science, especially temporal point processes and Bayesian inference.
+
+Also, I have experience with statistical physics for theories in Deep Learning and Word Sense Disambiguation. Please see my publications and portfolio for more details.
+
+I had two fantastic collaborators at U of R: [Anis](http://azaman13.github.io/) (now at eBay) and [Rupam](https://www.cs.rochester.edu/u/racharyy/) (postdoc at the University at Buffalo). 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
