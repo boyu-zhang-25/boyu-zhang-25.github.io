@@ -17,10 +17,11 @@ University of Rochester, Summer 2019
 # Result Visualization
 
 ## Graph bi-LSTM over the WordNet (depth = 3)
-<img src='/images/tSNE_hidden_hyper_hypon_genus__n__02.png' class='center'>
+<img src='/images/tSNE_hidden_hyper_hypon_genus__n__02.png' class='center'><br>
 <img src='/images/tSNE_hidden_hyper_hypon_instrumentality__n__03.png' class='center'><br>
+<img src='/images/tSNE_hidden_hyper_hypon_person__n__01.png' class='center'><br>
 <img src='/images/tSNE_hidden_hyper_hypon_organism__n__01.png' class='center'><br>
-<img src='/images/tSNE_hidden_hyper_hypon_worker__n__01.png' class='center'>
+<img src='/images/tSNE_hidden_hyper_hypon_worker__n__01.png' class='center'><br>
 
 
 The code can be found [here](https://github.com/boyu-zhang-25/Decoding-Word-Sense).
