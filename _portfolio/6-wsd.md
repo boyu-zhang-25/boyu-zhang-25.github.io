@@ -17,14 +17,11 @@ University of Rochester, Summer 2019
 # Result Visualization
 
 ## Graph bi-LSTM over the WordNet (depth = 3)
-![genus](https://github.com/boyu-zhang-25/Decoding-Word-Sense/blob/master/figures/tSNE_hidden_hyper_hypon_genus__n__02.png)
+<img src='/images/tSNE_hidden_hyper_hypon_genus__n__02.png' width='500' height='300'><br>
+<img src='/images/tSNE_hidden_hyper_hypon_instrumentality__n__03.png' width='500' height='300'><br>
+<img src='/images/tSNE_hidden_hyper_hypon_person__n__01.png' width='500' height='300'><br>
+<img src='/images/tSNE_hidden_hyper_hypon_organism__n__01.png' width='500' height='300'><br>
+<img src='/images/tSNE_hidden_hyper_hypon_worker__n__01.png' width='500' height='300'><br>
 
-![instrumentality](https://github.com/boyu-zhang-25/Decoding-Word-Sense/blob/master/figures/tSNE_hidden_hyper_hypon_instrumentality__n__03.png)
-
-![person](https://github.com/boyu-zhang-25/Decoding-Word-Sense/blob/master/figures/tSNE_hidden_hyper_hypon_person__n__01.png)
-
-![organism](https://github.com/boyu-zhang-25/Decoding-Word-Sense/blob/master/figures/tSNE_hidden_hyper_hypon_organism__n__01.png)
-
-![worker](https://github.com/boyu-zhang-25/Decoding-Word-Sense/blob/master/figures/tSNE_hidden_hyper_hypon_worker__n__01.png)
 
 The code can be found [here](https://github.com/boyu-zhang-25/Decoding-Word-Sense).
