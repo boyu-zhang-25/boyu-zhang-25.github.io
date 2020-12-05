@@ -23,6 +23,8 @@ University of Rochester, Summer 2019
 
 ![person](https://github.com/boyu-zhang-25/Decoding-Word-Sense/blob/master/figures/tSNE_hidden_hyper_hypon_person__n__01.png)
 
+![organism](https://github.com/boyu-zhang-25/Decoding-Word-Sense/blob/master/figures/tSNE_hidden_hyper_hypon_organism__n__01.png)
+
 ![worker](https://github.com/boyu-zhang-25/Decoding-Word-Sense/blob/master/figures/tSNE_hidden_hyper_hypon_worker__n__01.png)
 
 The code can be found [here](https://github.com/boyu-zhang-25/Decoding-Word-Sense).
