@@ -1,6 +1,6 @@
 ---
 title: "A Multivariate Hawkes Process for Detecting Individuals with Depressive Disorder"
-excerpt: "We propose a personalized framework for classifying individuals with and without depression symptoms based on mutual-exciting point process that captures both the temporal and semantic aspects of online activities.<br/><img src='/images/hawkes-depression-2.png'>"
+excerpt: "We propose a personalized framework for classifying individuals with and without depression symptoms based on mutual-exciting point process that captures both the temporal and semantic aspects of online activities.<br/><br/><img src='/images/hawkes-depression-2.png'>"
 collection: portfolio
 ---
 
