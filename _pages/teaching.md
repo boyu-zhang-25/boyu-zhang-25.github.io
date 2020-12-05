@@ -15,6 +15,8 @@ author_profile: true
 
 * TA for [Introduction to Artificial Intelligence (CSC 242)](https://www.cs.rochester.edu/u/ferguson/csc/242/Fall2019/syllabus.html) by Prof. [George Ferguson](https://www.cs.rochester.edu/u/ferguson/), Fall 2019
 
+* TA for [Introduction to Computer Science (CSC 171)](https://www.cs.rochester.edu/u/pawlicki/csc/171/Spring2019/syllabus.html) by Prof. [Ted Pawlicki](https://www.cs.rochester.edu/u/pawlicki/), Spring 2019
+
 <!-- {% include base_path %}
 
 {% for post in site.teaching reversed %}
