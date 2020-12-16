@@ -11,6 +11,3 @@ collection: portfolio
 - We collected Google Search and YouTube history data and clinical depression evaluation results from $212$ participants ($99$ of them suffered from moderate to severe depressions). We then propose a personalized framework for classifying individuals with and without depression symptoms based on mutual-exciting point process that captures both the temporal and semantic aspects of online activities. Our best model achieved an average F1 score of $0.77 \pm 0.04$ and an AUROC of $0.81 \pm 0.02$.
 
 - Please see our lightning talk at the NeurIPS 2020 Workshop on Machine Learning for Public Health [here](https://sites.google.com/nyu.edu/mlph2020/accepted-papers). The paper can be found [here](https://arxiv.org/abs/2010.15670). 
-
-
-(Image by [Steve Morse](https://github.com/stmorse/hawkes))

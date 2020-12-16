@@ -12,3 +12,5 @@ collection: portfolio
 
 - Labels for the training and testing sets were drawn from professional mental health surveys. Our highest-performing graphical model achieved a classification F1 score of $0.83$ with an AUC of $0.81$ on a stratified test set population. Our framework of leveraging passively sensed search data could help caregivers and practitioners to identify individuals with a potential history of suicide ideation and extend help.
 
+![alt text](https://github.com/boyu-zhang-25/boyu-zhang-25.github.io/blob/master/images/psi.png "PSI text and image")
+
