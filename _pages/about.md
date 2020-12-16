@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
----
 __News__:
-- *12-2020* Awarded Finalist for the 2021 CRA Outstanding Undergraduate Researcher Award (official announcement upcoming).
----
+- __12-2020__ Awarded Finalist for the 2021 CRA Outstanding Undergraduate Researcher Award (official announcement upcoming).
+
 
 Hi, I am Boyu. I am a fourth-year undergraduate student at the University of Rochester, pursuing an [Honors](https://www.cs.rochester.edu/undergraduate/degree-requirements.html) B.S. in Computer Science. At U of R, I have the honor to work closely with Professor [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Professor [Ehsan Hoque](https://hoques.com/), and Doctor [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). In the past, I have worked with Professor [Daniel Štefankovič](https://www.cs.rochester.edu/~stefanko/) and Professor [Aaron Steven White](http://aaronstevenwhite.io/).
 
