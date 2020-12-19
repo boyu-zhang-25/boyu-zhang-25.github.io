@@ -6,7 +6,6 @@ collection: portfolio
 
 <!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
 
->Pervasive Computing, Mental Health
 
 - **Background**: Depression and anxiety disorders among the global population have worsened during the COVID-19 pandemic. Yet, current methods for screening these two issues rely on in-person interviews, which can be expensive, time-consuming, and blocked by social stigma and quarantines. Meanwhile, how individuals engage with online platforms such as Google Search and YouTube has undergone drastic shifts due to COVID-19 and subsequent lockdowns. Such ubiquitous daily behaviors on online platforms have the potential to capture and correlate with clinically alarming deteriorations in depression and anxiety profiles of users in a noninvasive manner.
 
