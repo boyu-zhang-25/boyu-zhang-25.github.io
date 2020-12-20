@@ -11,10 +11,6 @@ redirect_from:
 
 [Download my CV here](http://boyu-zhang-25.github.io/files/Boyu_Zhang_CV.pdf)
 
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Y3kTFIJriF9pvhHHI4ZMfNEIT33lGYeyuMMKFfMDuu4&cl=ffffff&w=a"></script>
-
-
 <!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
