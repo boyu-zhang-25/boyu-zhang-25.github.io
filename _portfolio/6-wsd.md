@@ -8,11 +8,10 @@ collection: portfolio
 
 # Decoding Word Sense with Graphical Embeddings
 
-By [Prof. Aaron Steven White](http://aaronstevenwhite.io/) and me :)
+This project was sponsored by the [Discover Grant](https://www.rochester.edu/college/ugresearch/funding/discover-grant/index.html) of Summer 2019 at the University of Rochester. 
 
-[The Formal And CompuTational Semantics lab (FACTS.lab)](http://factslab.io/)
+I was supervised by [Prof. Aaron Steven White](http://aaronstevenwhite.io/) from the [Formal And CompuTational Semantics lab (FACTS.lab)](http://factslab.io/)
 
-University of Rochester, Summer 2019
 
 # Result Visualization
 

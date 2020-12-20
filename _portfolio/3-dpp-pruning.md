@@ -19,5 +19,6 @@ collection: portfolio
 
 - **My Contribution**: I am the second author of this paper. I completed theoretical proofs of the generalization error bounds for a series of diversity and weight-based pruning methods on feed-forward neural networks in a group of two. We employed a statistical mechanics setup and characterized the network training process as ODEs. I further implemented a novel diversity-based edge pruning algorithm based on Determinantal Point Processes, which was inspired by the advance in neurophysiology on synapse diversity and elimination for energy conservation. We observed improved performances than previous methods in the same family on both synthetic and real-world datasets. <br/><img src='/images/dpp-pruning-old.png' width='500' height='300'><br/>
 
-- Please see our paper [here](https://arxiv.org/abs/2006.16617).  
+- Please see our paper [here](https://arxiv.org/abs/2006.16617). The code can be found [here](https://github.com/boyu-zhang-25/DropConnect_DPP).
+
 
