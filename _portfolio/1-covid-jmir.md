@@ -29,5 +29,7 @@ activities, inter-event time, linguistic attributes (e.g., tones and affective w
 
 - **Conclusions**: The results suggested that deteriorating depression and anxiety conditions have strong correlations with behavioral changes in Google Search and YouTube use during the COVID-19 pandemic. Though further studies are required, our results demonstrate the feasibility of using pervasive online data to establish noninvasive surveillance systems for mental health conditions that bypasses many disadvantages of existing screening methods.
 
+- **My Contribution**: I was the leader of this project. I extracted all the features and performed all the analyses, and I single-handedly wrote the whole article. I was not the leader during the initial data collection, so I decided to share the first authorship with my fantastic collaborator, Anis Zaman.
+
 - Please see our paper at JMIR Mental Health [here](https://mental.jmir.org/2020/11/e24012) for more details. 
 
