@@ -6,7 +6,13 @@ collection: portfolio
 
 <!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
 
-
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 >Machine Learning --> Temporal Point Process; Mental Health.
 
 - Depressive disorder is one of the most prevalent mental illnesses among the global population. However, traditional screening methods require exacting in-person interviews and may fail to provide immediate interventions. In this work, we leverage ubiquitous personal longitudinal Google Search and YouTube engagement logs to detect individuals with depressive disorder. 
