@@ -7,6 +7,13 @@ collection: portfolio
 <!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
 
 
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 >Machine Learning --> Bayesian Inference; Mental Health.
 
 - We propose a framework for identifying individuals with a history of suicide ideation from their daily online search logs. A total of $1,043,855$ searches were collected from $120$ college students, with an average of $10926$ searches per participant, spanning over $4.21$ years of search history. The participants also filled out a gold-standard mental health assessment survey. 

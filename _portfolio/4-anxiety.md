@@ -7,6 +7,13 @@ collection: portfolio
 <!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
 
 
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 >Pervasive Computing; Mental Health.
 
 - Anxiety disorder is one of the world's most prevalent mental health conditions, arising from complex interactions of biological and environmental factors and severely interfering with one's ability to lead normal life activities. Current methods for detecting anxiety heavily rely on in-person interviews, which can be expensive, time-consuming, and blocked by social stigmas.

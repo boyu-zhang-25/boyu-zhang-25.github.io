@@ -7,6 +7,13 @@ collection: portfolio
 <!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
 
 
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 >Word Sense Disambiguation
 
 - This project was sponsored by the [Discover Grant](https://www.rochester.edu/college/ugresearch/funding/discover-grant/index.html) of Summer 2019 at the University of Rochester. 
