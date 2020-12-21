@@ -1,6 +1,6 @@
 ---
 title: "Aggregating Search Logs and Self-esteem for Identifying Individuals with History of Suicide Ideation"
-excerpt: "A Bayesian graphical model that incorporates the latent interdependence between self-esteem, quotidian cognitive states, and online engagements to identify past suicide ideation.<br/><mark><i>Machine Learning &rarr; Bayesian Inference; Mental Health.</i></mark><br/><img src='/images/psi.png'>"
+excerpt: "We propose a framework for identifying individuals with a history of suicide ideation from their daily online search logs. We designed a graphical model optimized by MCMC methods that incorporates the latent interdependence between self-esteem, cognitive states, and online engagements to identify past suicidal ideation.<br/><mark><i>Machine Learning &rarr; Bayesian Inference; Mental Health.</i></mark><br/><img src='/images/psi.png'>"
 collection: portfolio
 ---
 

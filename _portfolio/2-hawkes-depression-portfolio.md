@@ -1,6 +1,6 @@
 ---
 title: "A Multivariate Hawkes Process for Detecting Individuals with Depressive Disorder"
-excerpt: "We propose a personalized framework for classifying individuals with and without depression symptoms based on a mutual-exciting point process that captures both the temporal and semantic aspects of online activities.<br/><mark><i>Machine Learning &rarr; Temporal Point Process; Mental Health.</i></mark><br/><img src='/images/hawkes-depression-2.png'>"
+excerpt: "We propose a personalized framework for classifying individuals with and without depression symptoms. We simulated the interplay between the distributional semantics and the temporal stochasticity of online activities with a mutually exciting multidimensional Hawkes Process.<br/><mark><i>Machine Learning &rarr; Temporal Point Process; Mental Health.</i></mark><br/><img src='/images/hawkes-depression-2.png'>"
 collection: portfolio
 ---
 
