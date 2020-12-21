@@ -1,6 +1,11 @@
 ---
 title: "Individual-level Anxiety Detection and Prediction from Longitudinal YouTube and Google Search Engagement Logs"
-excerpt: "In this work, we propose an alternative method to identify individuals with anxiety and further estimate their anxiety levels using personal online activity histories from YouTube and the Google Search engine, platforms that are used by millions of people daily.<br/><mark><i>Pervasive Computing; Mental Health.</i></mark><br/><img src='/images/anxiety.png'>"
+excerpt: "In this work, we propose an alternative method to identify individuals with anxiety and further estimate their anxiety levels using personal online activity histories from YouTube and the Google Search engine, platforms that are used by millions of people daily.
+
+	>Pervasive Computing; Mental Health.
+
+
+<img src='/images/anxiety.png'>"
 collection: portfolio
 ---
 

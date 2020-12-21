@@ -1,6 +1,11 @@
 ---
 title: "The Relationships of Deteriorating Depression and Anxiety With Longitudinal Behavioral Changes in Google and YouTube Use During COVID-19: Observational Study"
-excerpt: "The goal of this study is to examine, among college students in the United States, the relationships of deteriorating depression and anxiety conditions with the changes in user behaviors when engaging with Google Search and YouTube during COVID-19.<br/><mark><i>Pervasive Computing; Mental Health.</i></mark><br/><img src='/images/COVID-19-JMIR-pic.jpeg' width='500' height='300'>"
+excerpt: "The goal of this study is to examine, among college students in the United States, the relationships of deteriorating depression and anxiety conditions with the changes in user behaviors when engaging with Google Search and YouTube during COVID-19.
+
+	>Pervasive Computing; Mental Health.
+
+
+<img src='/images/COVID-19-JMIR-pic.jpeg' width='500' height='300'>"
 collection: portfolio
 ---
 
