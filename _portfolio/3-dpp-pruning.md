@@ -2,7 +2,7 @@
 title: "Understanding Diversity-based Pruning of Neural Networks -- Statistical Mechanical Analysis"
 excerpt: "Despite the multitude of empirical advances, there is no theoretical understanding of the effectiveness of different pruning methods. We address this issue by setting up the problem in the statistical mechanics formulation of a teacher-student framework and deriving generalization error (GE) bounds of specific pruning methods.
 
-	>Machine Learning &rarr; Statistical Mechanical Analysis.
+	>Theory for Deep Learning &rarr; Statistical Mechanical Analysis.
 
 
 <img src='/images/dpp-pruning-new.png'>"
@@ -19,7 +19,7 @@ img {
   margin-right: auto;
 }
 </style>
->Machine Learning --> Statistical Mechanical Analysis.
+>Theory for Deep Learning --> Statistical Mechanical Analysis.
 
 - Deep learning architectures with a huge number of parameters are often compressed using pruning techniques to ensure computational efficiency of inference during deployment. Despite the multitude of empirical advances, there is no theoretical understanding of the effectiveness of different pruning methods. We address this issue by setting up the problem in the statistical mechanics formulation of a teacher-student framework and deriving generalization error (GE) bounds of specific pruning methods. This theoretical premise allows comparison between pruning methods, and we use it to investigate the compression of neural networks via diversity-based pruning methods. 
 
