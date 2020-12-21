@@ -3,7 +3,7 @@ title: "Decoding Word Sense with Graphical Embeddings"
 excerpt: "Implemented three deep graph encoders over WordNet for word sense embeddings bounded by hypernyms-hyponyms and meronyms-holonyms: a child-sum graph bi-LSTM, a matrix decomposition method with graph kernels, and a GCN.<br/>
 
 	>Word Sense Disambiguation.
-	
+
 <br/><img src='/images/wsd.png'>"
 collection: portfolio
 ---
