@@ -23,7 +23,7 @@ During COVID-19: Observational Study](https://mental.jmir.org/2020/11/e24012)<br
 
 ## 2019
 
-* [Aggregating Search Logs and Self-esteem for Identifying Individuals with History of Suicide Ideation]()<br> Anis Zaman, Rupam Acharyya, <b>Boyu Zhang</b>, Vincent Silenzio, Ehsan Hoque, and Henry Kautz. <i>preprint not allowed</i> (2019). Submitted to the <i>10th EAI International Conference on Pervasive Computing Paradigms for Mental Health (EAI MindCare 2021)</i>.
+* [Aggregating Search Logs and Self-esteem for Identifying Individuals with History of Suicide Ideation](http://boyu-zhang-25.github.io/files/psi_paper_Boyu_Zhang.pdf)<br> Anis Zaman, Rupam Acharyya, <b>Boyu Zhang</b>, Vincent Silenzio, Ehsan Hoque, and Henry Kautz. (2019). Submitted to the <i>10th EAI International Conference on Pervasive Computing Paradigms for Mental Health (EAI MindCare 2021)</i>.
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
