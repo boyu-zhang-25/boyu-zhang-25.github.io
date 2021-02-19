@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* TA for [Machine Learning (CSC 246)](), Spring 2021 (upcoming)
+* TA for [Machine Learning (CSC 246)](https://www.cs.rochester.edu/u/apurtee/246/), Spring 2021
 
 
 * TA for [Machine Learning (CSC 246)](https://www.cs.rochester.edu/u/apurtee/246/index.html), Spring 2020
