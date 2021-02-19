@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 __News__:
-- __02-2021__ Thank all schools & professors who have offered me a Ph.D. position. It is a tough choice for me to make.
+- __02-2021__ Thank all schools & professors who have offered me a Ph.D. position. It is a tough decision for me to make.
 - __12-2020__ Awarded Finalist for the [2021 CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/#2020). I am grateful to everyone who helped me along the way :)
 
 Hi, I am Boyu. I am a fourth-year undergraduate student at the University of Rochester, pursuing an [Honors](https://www.cs.rochester.edu/undergraduate/degree-requirements.html) B.S. in Computer Science. At U of R, I am lucky to be advised by Professor [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Professor [Ehsan Hoque](https://hoques.com/), and Doctor [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). In the past, I have worked with Professor [Daniel Štefankovič](https://www.cs.rochester.edu/~stefanko/) and Professor [Aaron Steven White](http://aaronstevenwhite.io/).
@@ -24,7 +24,7 @@ Also, I have experience with statistical physics for theories in Deep Learning a
 
 I had two fantastic collaborators at U of R: [Dr. Anis Zaman](http://azaman13.github.io/) (now at eBay) and [Dr. Rupam Acharyya](https://www.cs.rochester.edu/u/racharyy/) (postdoc at the University at Buffalo). 
 
-<span style="color:red">I am always happy to help students get involved in research, especially from historically underrepresented groups. Please feel free to email me!</span>.
+<span style="color:red">I am always happy to help students get involved in research, especially from *historically underrepresented groups*. Please feel free to email me!</span>
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
