@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-__News__:
 - __02-2021__ My sincere gratitude to all schools & professors who have offered me a Ph.D. position! It is a tough decision for me to make.
 - __12-2020__ Awarded Finalist for the [2021 CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/#2020). I am grateful to everyone who helped me along the way :)
 
