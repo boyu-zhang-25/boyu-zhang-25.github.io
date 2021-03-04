@@ -10,7 +10,7 @@ author_profile: true
 
 * TA for [Machine Learning (CSC 246)](https://www.cs.rochester.edu/u/apurtee/246/index.html), Spring 2020
 
-	- Some [midterm questions](http://boyu-zhang-25.github.io/files/246_midterm_review_spring_2020.pdf) I designed.
+<!-- 	- Some [midterm questions](http://boyu-zhang-25.github.io/files/246_midterm_review_spring_2020.pdf) I designed. -->
 
 
 * TA for [Introduction to Artificial Intelligence (CSC 242)](https://www.cs.rochester.edu/u/ferguson/csc/242/Fall2019/syllabus.html), Fall 2019

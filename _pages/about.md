@@ -13,13 +13,13 @@ redirect_from:
 
 Hi, I am Boyu. I am a fourth-year undergraduate student at the University of Rochester, pursuing an [Honors](https://www.cs.rochester.edu/undergraduate/degree-requirements.html) B.S. in Computer Science. At U of R, I am lucky to be advised by Professor [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Professor [Ehsan Hoque](https://hoques.com/), and Doctor [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). In the past, I have worked with Professor [Daniel Štefankovič](https://www.cs.rochester.edu/~stefanko/) and Professor [Aaron Steven White](http://aaronstevenwhite.io/).
 
-My research interest lies in Ubiquitous and Pervasive Computing, Human-Computer Interaction, and Machine Learning. For the past several years, my projects have focused on 
+My research interest lies in Human-Computer Interaction, Bayesian Machine Learning, and Healthcare Applications. For the past several years, my projects have focused on 
 
 * Mining pervasive online data to construct personalized mental disorder (anxiety, depression, and suicide ideation) tracking systems, and 
 
 * Developing explicable machine learning models with inductive biases inspired by clinical psychology and behavioral science, especially temporal point processes and Bayesian inference.
 
-Also, I have experience with statistical physics for theories in Deep Learning and Word Sense Disambiguation. Please see my publications and portfolio for more details.
+Also, I have experience with statistical physics for theoretical Deep Learning and Word Sense Disambiguation. Please see my publications for more details.
 
 I had two fantastic collaborators at U of R: [Dr. Anis Zaman](http://azaman13.github.io/) (now at eBay) and [Dr. Rupam Acharyya](https://www.cs.rochester.edu/u/racharyy/) (postdoc at the University at Buffalo). 
 
