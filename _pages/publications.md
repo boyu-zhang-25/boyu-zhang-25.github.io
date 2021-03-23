@@ -19,7 +19,7 @@ During COVID-19: Observational Study](https://mental.jmir.org/2020/11/e24012)<br
 
 * [Understanding Diversity-based Pruning of Neural Networks--Statistical Mechanical Analysis](https://arxiv.org/abs/2006.16617)<br> Rupam Acharyya, <b>Boyu Zhang\*</b>, Ankani Chattoraj\*, Shouman Das, and Daniel Stefankovic. In <i>arXiv preprint arXiv:2006.16617</i> (2020). Submitted to the <i>37th Conference on Uncertainty in Artificial Intelligence (UAI 2021)</i>.
 
-* [Individual-level Anxiety Detection and Prediction from Longitudinal YouTube and Google Search Engagement Logs](https://arxiv.org/abs/2007.00613)<br> Anis Zaman, <b>Boyu Zhang</b>, Vincent Silenzio, Ehsan Hoque, and Henry Kautz. In <i>arXiv preprint arXiv:2007.00613</i> (2020). Submitted to the <i>IEEE Transactions on Affective Computing</i>.
+* [Individual-level Anxiety Detection and Prediction from Longitudinal YouTube and Google Search Engagement Logs](https://arxiv.org/abs/2007.00613)<br> Anis Zaman, <b>Boyu Zhang</b>, Vincent Silenzio, Ehsan Hoque, and Henry Kautz. In <i>arXiv preprint arXiv:2007.00613</i> (2020). Submitted to the <i>IEEE Pervasive Computing: Special Issue on Mental Health, Mood, and Emotion</i>.
 
 ## 2019
 
