@@ -16,7 +16,7 @@ Hi, I am Boyu, an incoming graduate student at MIT. I am honored to be advised b
 
 Currently, I am finishing my undergraduate study at the University of Rochester, pursuing an [Honors](https://www.cs.rochester.edu/undergraduate/degree-requirements.html) B.S. in Computer Science. At U of R, I am lucky to be advised by Professor [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Professor [Ehsan Hoque](https://hoques.com/), and Doctor [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). In the past, I have worked with Professor [Daniel Štefankovič](https://www.cs.rochester.edu/~stefanko/) and Professor [Aaron Steven White](http://aaronstevenwhite.io/).
 
-My research interest lies in Affective Computing, Robust Machine Learning, and HCI, with an emphasis on healthcare applications. During my undergraduate, my projects have focused on 
+My research interest lies in __Affective Computing__, __Robust Machine Learning__, and __HCI__, with an emphasis on _healthcare_. During my undergraduate, my projects have focused on 
 
 * Mining pervasive online data to construct personalized mental disorder (anxiety, depression, and suicide ideation) tracking systems, and 
 
