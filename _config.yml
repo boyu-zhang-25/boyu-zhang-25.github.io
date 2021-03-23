@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Boyu Zhang"
 title_separator          : "-"
 name                     : &name "Boyu Zhang"
-description              : &description "Undergraduate Researcher"
+description              : &description "Incoming Graduate Student at MIT"
 url                      : https://boyu-zhang-25.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "boyu-zhang-25.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Boyu Zhang"
   avatar           : "new_profile.jpeg"
-  bio              : "I am an undergraduate researcher at the University of Rochester."
+  bio              : "I am an incoming graduate student at MIT."
   location         : "Rochester, NY, U.S.A."
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

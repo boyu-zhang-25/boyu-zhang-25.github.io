@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+- __03-2021__ Thrilled to share that I will be joining MIT as a graduate student this fall! Huge thanks to Prof. Kautz, Prof. Hoque, Prof. Silenzio, Dr. Zaman, and Dr. Acharyya for the past three years of mentorship!
 - __02-2021__ My sincere gratitude to all schools & professors who have offered me a Ph.D. position! It is a tough decision for me to make.
 - __12-2020__ Awarded Finalist for the [2021 CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/#2020). I am grateful to everyone who helped me along the way :)
 
-Hi, I am Boyu. I am a fourth-year undergraduate student at the University of Rochester, pursuing an [Honors](https://www.cs.rochester.edu/undergraduate/degree-requirements.html) B.S. in Computer Science. At U of R, I am lucky to be advised by Professor [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Professor [Ehsan Hoque](https://hoques.com/), and Doctor [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). In the past, I have worked with Professor [Daniel Štefankovič](https://www.cs.rochester.edu/~stefanko/) and Professor [Aaron Steven White](http://aaronstevenwhite.io/).
+Hi, I am Boyu, an incoming graduate student at MIT. I am honored to be advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/) from the [Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/).
 
-My research interest lies in Human-Computer Interaction, Bayesian Machine Learning, and Healthcare Applications. For the past several years, my projects have focused on 
+Currently, I am finishing my undergraduate study at the University of Rochester, pursuing an [Honors](https://www.cs.rochester.edu/undergraduate/degree-requirements.html) B.S. in Computer Science. At U of R, I am lucky to be advised by Professor [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Professor [Ehsan Hoque](https://hoques.com/), and Doctor [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). In the past, I have worked with Professor [Daniel Štefankovič](https://www.cs.rochester.edu/~stefanko/) and Professor [Aaron Steven White](http://aaronstevenwhite.io/).
+
+My research interest lies in Affective Computing, Robust Machine Learning, and Healthcare Applications. During my undergraduate, my projects have focused on 
 
 * Mining pervasive online data to construct personalized mental disorder (anxiety, depression, and suicide ideation) tracking systems, and 
 
