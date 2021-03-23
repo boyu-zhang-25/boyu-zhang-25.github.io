@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- __03-2021__ Thrilled to share that I will be joining MIT as a graduate student this fall! Huge thanks to Prof. Kautz, Prof. Hoque, Prof. Silenzio, Dr. Zaman, and Dr. Acharyya for the past three years of mentorship!
+- __03-2021__ Thrilled to share that I will be joining MIT as a graduate student this fall, advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/)! Huge thanks to Prof. Kautz, Prof. Hoque, Prof. Silenzio, Dr. Zaman, and Dr. Acharyya for the past three years of mentorship!
 - __02-2021__ My sincere gratitude to all schools & professors who have offered me a Ph.D. position! It is a tough decision for me to make.
 - __12-2020__ Awarded Finalist for the [2021 CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/#2020). I am grateful to everyone who helped me along the way :)
 
