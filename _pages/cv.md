@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here](http://boyu-zhang-25.github.io/files/Boyu_Zhang_CV.pdf)
+[Please download my CV here](http://boyu-zhang-25.github.io/files/Boyu_Zhang_CV.pdf)
 
 <!-- Education
 ======

@@ -23,7 +23,7 @@ During COVID-19: Observational Study](https://mental.jmir.org/2020/11/e24012)<br
 
 ## 2019
 
-* [Aggregating Search Logs and Self-esteem for Identifying Individuals with History of Suicide Ideation](http://boyu-zhang-25.github.io/files/psi_paper_Boyu_Zhang.pdf)<br> Anis Zaman, Rupam Acharyya, <b>Boyu Zhang</b>, Vincent Silenzio, Ehsan Hoque, and Henry Kautz. (2019). Submitted to the <i>13th ACM Web Science Conference (WebSci 2021)</i>.
+* [Aggregating Search Logs and Self-esteem for Identifying Individuals with History of Suicide Ideation]()<br> Anis Zaman, Rupam Acharyya, <b>Boyu Zhang</b>, Vincent Silenzio, Ehsan Hoque, and Henry Kautz. (2019). Submitted to the <i>13th ACM Web Science Conference (WebSci 2021)</i>.
 
 ## 2016
 * [Chromatin accessibility contributes to simultaneous mutations of cancer genes](https://www.nature.com/articles/srep35270)<br> Yi Shi, Xian-Bin Su, Kun-Yan He, Bing-Hao Wu, <b>Bo-Yu Zhang</b>, and Ze-Guang Han. In <i>Scientific Reports volume 6, Article number: 35270</i> (Oct. 2016).
