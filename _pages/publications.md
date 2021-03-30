@@ -10,7 +10,7 @@ author_profile: true
 
 # Peer-reviewed Conferences
 
-[1] Rupam Acharyya, **Boyu Zhang**, Ankani Chattoraj, Shouman Das, and Daniel Stefankovic,
+[1] Rupam Acharyya, **Boyu Zhang**\*, Ankani Chattoraj\*, Shouman Das, and Daniel Stefankovic,
 “Understanding diversity-based pruning of neural networks–statistical mechanical analysis”, in _37th
 Conference on Uncertainty in Artificial Intelligence (UAI 2021)_, Submitted, 2020. [Online]. Available:
 https://arxiv.org/abs/2006.16617.
@@ -26,7 +26,7 @@ detection and prediction from longitudinal youtube and google search engagement 
 Computing: Special Issue on Mental Health, Mood, and Emotion_, 2020, Submitted. [Online]. Available:
 https://arxiv.org/abs/2007.00613.
 
-[2] **Boyu Zhang**, Anis Zaman, Vincent Silenzio, Henry Kautz, and Ehsan Hoque, “The relationships of
+[2] **Boyu Zhang**\*, Anis Zaman\*, Vincent Silenzio, Henry Kautz, and Ehsan Hoque, “The relationships of
 deteriorating depression and anxiety with longitudinal behavioral changes in google and youtube use
 during covid-19: Observational study”, _JMIR Mental Health_, Nov. 2020, IF: 3.54. [Online]. Available:
 https://mental.jmir.org/2020/11/e24012.

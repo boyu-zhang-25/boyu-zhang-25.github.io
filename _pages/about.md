@@ -8,10 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+News
+---
 - __03-2021__ Two papers accepted to Neural Compression Workshop @ ICLR 2021.
-- __03-2021__ Thrilled to share that I will be joining MIT as a graduate student this fall, advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/)! Huge thanks to Prof. Kautz, Prof. Hoque, Prof. Silenzio, Dr. Zaman, and Dr. Acharyya for the past three years of mentorship! And sorry, CMU, Cornell, and UW :(
+- __03-2021__ Thrilled to share that I will be joining MIT as a graduate student this fall, advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/)! Huge thanks to Prof. Kautz, Prof. Hoque, Prof. Silenzio, Dr. Zaman, and Dr. Acharyya! And sorry, CMU, Cornell, and UW :(
 - __12-2020__ Awarded Finalist for the [2021 CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/#2020).
 
+
+About Me
+---
 Hi, I am Boyu, an incoming graduate student at MIT. I am honored to be advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/) at the [Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/).
 
 Currently, I am finishing my undergraduate study at the University of Rochester, pursuing an [Honors](https://www.cs.rochester.edu/undergraduate/degree-requirements.html) B.S. in Computer Science. At U of R, I am lucky to be advised by Professor [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Professor [Ehsan Hoque](https://hoques.com/), and Doctor [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). In the past, I have worked with Professor [Daniel Štefankovič](https://www.cs.rochester.edu/~stefanko/) and Professor [Aaron Steven White](http://aaronstevenwhite.io/).
@@ -22,9 +27,9 @@ My research interest lies in __Affective Computing__, __Robust Machine Learning_
 
 * Developing explicable machine learning models with inductive biases inspired by clinical psychology and behavioral science, especially temporal point processes and Bayesian inference.
 
-Also, I have experience with statistical physics for theoretical Deep Learning and Word Sense Disambiguation. Please see my publications for more details.
+Also, I have experience with statistical physics for theoretical Deep Learning and Word Sense Disambiguation. Please see my publications and CV for more details.
 
-I had two fantastic collaborators at U of R: [Dr. Anis Zaman](http://azaman13.github.io/) (now at eBay) and [Dr. Rupam Acharyya](https://www.cs.rochester.edu/u/racharyy/) (postdoc at the University at Buffalo). 
+I have two fantastic collaborators at U of R: [Dr. Anis Zaman](http://azaman13.github.io/) (now at eBay) and [Dr. Rupam Acharyya](https://www.cs.rochester.edu/u/racharyy/) (postdoc at the University at Buffalo). 
 
 <span style="color:red">I am always happy to help students get involved in research, especially from *historically underrepresented groups*. Please feel free to email me!</span>
 
