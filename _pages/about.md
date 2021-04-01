@@ -11,7 +11,7 @@ redirect_from:
 News
 ---
 - __03-2021__ Two papers accepted to Neural Compression Workshop @ ICLR 2021.
-- __03-2021__ Thrilled to share that I will be joining MIT as a graduate student this fall, advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/)! Huge thanks to Prof. Kautz, Prof. Hoque, Prof. Silenzio, Dr. Zaman, and Dr. Acharyya! And sorry, CMU, Cornell, and UW :(
+- __03-2021__ Thrilled to share that I will be joining MIT as a graduate student this fall, advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/)! Huge thanks to Prof. Kautz, Prof. Hoque, Prof. Silenzio, Dr. Zaman, and Dr. Acharyya! Sorry, CMU, Cornell, and UW :(
 - __12-2020__ Awarded Finalist for the [2021 CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/#2020).
 
 
@@ -27,11 +27,18 @@ My research interest lies in __Affective Computing__, __Robust Machine Learning_
 
 * Developing explicable machine learning models with inductive biases inspired by clinical psychology and behavioral science, especially temporal point processes and Bayesian inference.
 
-Also, I have experience with statistical physics for theoretical Deep Learning and Word Sense Disambiguation. Please see my publications and CV for more details.
+Also, I have experience with statistical mechanics for theoretical Deep Learning and Word Sense Disambiguation. Please see my publications and CV for more details.
 
 I have two fantastic collaborators at U of R: [Dr. Anis Zaman](http://azaman13.github.io/) (now at eBay) and [Dr. Rupam Acharyya](https://www.cs.rochester.edu/u/racharyy/) (postdoc at the University at Buffalo). 
 
-<span style="color:red">I am always happy to help students get involved in research, especially from *historically underrepresented groups*. Please feel free to email me!</span>
+
+<span style="color:red">Diversity and Accessibility</span>
+---
+I am committed to promoting equity, accessibility, and inclusion with technology-mediated tools. And I am always happy to help students get involved in research, especially from __historically underrepresented groups__. Please feel free to email me!
+
+[Accessibility @ MIT](https://accessibility.mit.edu/)
+[Accessibility @ U of R](https://www.rochester.edu/accessibility.html)
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
