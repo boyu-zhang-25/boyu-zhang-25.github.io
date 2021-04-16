@@ -17,9 +17,9 @@ News
 
 My Research
 ---
-Hi, I am Boyu, an incoming M.S./Ph.D. student at MIT. I am honored to be advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/) at the [Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/). Huge thanks to Prof. Kautz, Prof. Hoque, Prof. Silenzio, Dr. Zaman, and Dr. Acharyya for past mentorship :)
+Hi, I am Boyu, an incoming M.S./Ph.D. student at MIT. I am honored to be advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/) at the [Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/)!
 
-Currently, I am finishing my undergraduate study at the University of Rochester, pursuing an [Honors](https://www.cs.rochester.edu/undergraduate/degree-requirements.html) B.S. in Computer Science. At U of R, I am lucky to be advised by Professor [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Professor [Ehsan Hoque](https://hoques.com/), and Doctor [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). 
+Currently, I am finishing my undergraduate study at the University of Rochester, pursuing an [Honors](https://www.cs.rochester.edu/undergraduate/degree-requirements.html) B.S. in Computer Science. At U of R, I am fortunate to be advised by Professor [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Professor [Ehsan Hoque](https://hoques.com/), and Doctor [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). 
 
 My research interest lies in __Affective Computing__, __Robust Machine Learning__, and __HCI__, with an emphasis on __Healthcare__. During my undergraduate, my projects have focused on 
 
