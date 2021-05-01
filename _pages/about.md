@@ -10,24 +10,25 @@ redirect_from:
 
 News
 ---
-- __03-2021__ Two papers accepted to Neural Compression Workshop @ ICLR 2021.
-- __03-2021__ Thrilled to share that I will be joining MIT as a graduate student this fall, advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/)! Sorry, CMU, Cornell, and UW :(
+- __04-2021__ One paper accepted to ICWSM 2021. Two papers accepted to Neural Compression Workshop @ ICLR 2021.
+- __03-2021__ Thrilled to share that I will be joining MIT as a graduate student this fall, advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/)!
 - __12-2020__ Awarded Finalist for the [2021 CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/#2020).
 
 
 My Research
 ---
-Hi, I am Boyu, an incoming M.S./Ph.D. student at MIT. I am honored to be advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/) at the [Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/)!
+Hi, I am Boyu, an incoming M.S./Ph.D. student at MIT. I am honored to be advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/) at the [Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/)! Sorry, CMU, Cornell, and UW :(
 
-Currently, I am finishing my undergraduate study at the University of Rochester, pursuing an [Honors](https://www.cs.rochester.edu/undergraduate/degree-requirements.html) B.S. in Computer Science. At U of R, I am fortunate to be advised by Professor [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Professor [Ehsan Hoque](https://hoques.com/), and Doctor [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). 
+Currently, I am finishing my undergraduate study at the University of Rochester, pursuing an [Honors](https://www.cs.rochester.edu/undergraduate/degree-requirements.html) B.S. in Computer Science. I am fortunate to be advised by Professor [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Professor [Ehsan Hoque](https://hoques.com/), and Doctor [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). 
 
-My research interest lies in __Affective Computing__, __Robust Machine Learning__, and __HCI__, with an emphasis on __Healthcare__. During my undergraduate, my projects have focused on 
+My research interest lies in Affective Computing, Machine Learning, and HCI. In particular, I focus on: 
 
-* Mining pervasive online data to construct personalized mental disorder (anxiety, depression, and suicide ideation) tracking systems, and 
+* Developing technology-mediated tools to sense human behaviors and promote mental well-being with personalized interventions.
 
-* Developing explicable machine learning models with inductive biases inspired by clinical psychology and behavioral science, especially temporal point processes and Bayesian inference.
+* Designing explicable, robust, and unbiased data-driven algorithms for healthcare applications.
 
-Also, I have experience with statistical mechanics for theoretical Deep Learning and Word Sense Disambiguation. Please see my publications and CV for more details.
+
+Please see my publications and CV for more details.
 
 I have two fantastic collaborators at U of R: [Dr. Anis Zaman](http://azaman13.github.io/) (now at eBay) and [Dr. Rupam Acharyya](https://www.cs.rochester.edu/u/racharyy/) (postdoc at the University at Buffalo). 
 

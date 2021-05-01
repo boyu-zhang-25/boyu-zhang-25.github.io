@@ -15,17 +15,12 @@ Peer-reviewed Conferences
 _37th Conference on Uncertainty in Artificial Intelligence (UAI 2021)_. Submitted. 2020. URL:
 https://arxiv.org/abs/2006.16617.
 
-[Zam+19] Anis Zaman, Rupam Acharyya, **Boyu Zhang** , Vincent Silenzio, Ehsan Hoque, and Henry Kautz.
-“Aggregating Search Logs and Self-esteem for Identifying Individuals with History of Suicide
-Ideation”. In: _13th ACM Web Science Conference (WebSci 2021)_. Submitted. 2019.
+[Zam+20] Anis Zaman, **Boyu Zhang** , Vincent Silenzio, Ehsan Hoque, and Henry Kautz. “Individual-level Anxiety Detection and Prediction from Longitudinal YouTube and Google Search Engagement Logs”. In: _15th AAAI Conference on Web and Social Media (ICWSM 2021)_. To appear. 2020. url:https://arxiv.org/abs/2007.00613.
 
 
 Journal Articles
 ---
-[Zam+20] Anis Zaman, **Boyu Zhang** , Vincent Silenzio, Ehsan Hoque, and Henry Kautz. “Individual-level
-Anxiety Detection and Prediction from Longitudinal YouTube and Google Search Engagement
-Logs”. In: _IEEE Pervasive Computing: Special Issue on Mental Health, Mood, and Emotion_
-(2020). Submitted. URL: https://arxiv.org/abs/2007.00613.
+[Zam+19] Anis Zaman, Rupam Acharyya, **Boyu Zhang** , Vincent Silenzio, Ehsan Hoque, and Henry Kautz. “Aggregating Search Logs and Self-esteem for Identifying Individuals with History of Suicide Ideation”. In: _IEEE Pervasive Computing: Special Issue on Mental Health, Mood, and Emotion_ (2019). Submitted.
 
 [Zha+20] **Boyu Zhang**\*, Anis Zaman\*, Vincent Silenzio, Henry Kautz, and Ehsan Hoque. “The Relationships of Deteriorating Depression and Anxiety With Longitudinal Behavioral Changes in Google and YouTube Use During COVID-19: Observational Study”. In: _JMIR Mental Health_ (Nov. 2020). IF: 3.54. URL: https://mental.jmir.org/2020/11/e24012.
 
