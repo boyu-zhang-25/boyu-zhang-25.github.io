@@ -15,7 +15,7 @@ Peer-reviewed Conferences
 _37th Conference on Uncertainty in Artificial Intelligence (UAI 2021)_. Submitted. 2020. URL:
 https://arxiv.org/abs/2006.16617.
 
-[Zam+20] Anis Zaman, **Boyu Zhang** , Vincent Silenzio, Ehsan Hoque, and Henry Kautz. “Individual-level Anxiety Detection and Prediction from Longitudinal YouTube and Google Search Engagement Logs”. In: _15th AAAI Conference on Web and Social Media (ICWSM 2021)_. To appear. 2020. url:https://arxiv.org/abs/2007.00613.
+[Zam+20] Anis Zaman, **Boyu Zhang** , Vincent Silenzio, Ehsan Hoque, and Henry Kautz. “Individual-level Anxiety Detection and Prediction from Longitudinal YouTube and Google Search Engagement Logs”. In: _15th AAAI Conference on Web and Social Media (ICWSM 2021)_. To appear. 2020. URL: https://arxiv.org/abs/2007.00613.
 
 
 Journal Articles

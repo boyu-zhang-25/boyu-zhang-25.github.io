@@ -24,7 +24,6 @@ Currently, I am finishing my undergraduate study at the University of Rochester,
 My research interest lies in Affective Computing, Machine Learning, and HCI. In particular, I focus on: 
 
 * Developing technology-mediated tools to sense human behaviors and promote mental well-being with personalized interventions.
-
 * Designing explicable, robust, and unbiased data-driven algorithms for healthcare applications.
 
 
