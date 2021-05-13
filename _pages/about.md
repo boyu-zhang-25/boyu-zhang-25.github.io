@@ -10,7 +10,7 @@ redirect_from:
 
 News
 ---
-- __04-2021__ One paper accepted to ICWSM 2021. Two papers accepted to Neural Compression Workshop @ ICLR 2021.
+- __05-2021__ One paper accepted to UAI 2021.
 - __03-2021__ Thrilled to share that I will be joining MIT as a graduate student this fall, advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/)!
 - __12-2020__ Awarded Finalist for the [2021 CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/#2020).
 
