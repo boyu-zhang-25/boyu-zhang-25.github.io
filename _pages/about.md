@@ -12,8 +12,6 @@ News
 ---
 - __05-2021__ One paper accepted to UAI 2021.
 - __03-2021__ Thrilled to share that I will be joining MIT as a graduate student this fall, advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/)!
-- __12-2020__ Awarded Finalist for the [2021 CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/#2020).
-
 
 My Research
 ---
@@ -23,7 +21,7 @@ Currently, I am finishing my undergraduate study at the University of Rochester,
 
 My research interest lies in Affective Computing, Machine Learning, and HCI. In particular, I focus on: 
 
-* Developing technology-mediated tools to sense human behaviors and promote mental well-being with personalized interventions.
+* Developing ubiquitous computation tools to unobtrusively sense human behaviors and promote mental well-being with personalized interventions.
 * Designing explicable, robust, and unbiased data-driven algorithms for healthcare applications.
 
 
