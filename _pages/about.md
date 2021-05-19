@@ -36,8 +36,8 @@ I am committed to promoting Diversity, Equity, and Inclusion (DEI) with technolo
 
 Useful Links:
 
-- [U of R DEI](https://www.rochester.edu/diversity/)
 - [MIT DEI](https://deiactionplan.mit.edu/)
+- [U of R DEI](https://www.rochester.edu/diversity/)
 - [Accessibility @ MIT](https://accessibility.mit.edu/)
 - [Accessibility @ U of R](https://www.rochester.edu/accessibility.html)
 
