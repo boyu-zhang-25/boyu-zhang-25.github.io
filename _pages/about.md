@@ -13,21 +13,20 @@ News
 - __05-2021__ One paper accepted to UAI 2021.
 - __03-2021__ Thrilled to share that I will be joining MIT as a graduate student this fall, advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/)!
 
-My Research
+Bio
 ---
-Hi, I am Boyu, an incoming M.S./Ph.D. student at MIT. I am honored to be advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/) at the [Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/)! Sorry, CMU, Cornell, and UW :(
+Hi, I am Boyu, an incoming M.S./Ph.D. student at MIT. I am honored to be advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/) at the [Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/)!
 
-Currently, I am finishing my undergraduate study at the University of Rochester, pursuing an [Honors](https://www.cs.rochester.edu/undergraduate/degree-requirements.html) B.S. in Computer Science. I am fortunate to be advised by Professor [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Professor [Ehsan Hoque](https://hoques.com/), and Doctor [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). 
+Previously, I obtained a B.S. in Computer Science with [Highest Honors in Research](https://www.cs.rochester.edu/undergraduate/degree-requirements.html) and *Magna Cum Laude* from the University of Rochester. I am grateful to be advised by Professor [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Professor [Ehsan Hoque](https://hoques.com/), and Doctor [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). Also, I have two fantastic collaborators at U of R: [Dr. Anis Zaman](http://azaman13.github.io/) (eBay) and [Dr. Rupam Acharyya](https://www.cs.rochester.edu/u/racharyy/) (Micro Focus). 
 
+Research
+---
 My research interest lies in Affective Computing, Machine Learning, and HCI. In particular, I focus on: 
 
 * Developing computation tools to sense human behaviors, augment human ability, and promote well-being with personalized interventions.
 * Designing explainable and robust data-driven algorithms for high-stakes healthcare settings, minimizing the bias and opacity in automated agents.
 
-
 Please see my publications and CV for more details.
-
-I have two fantastic collaborators at U of R: [Dr. Anis Zaman](http://azaman13.github.io/) (now at eBay) and [Dr. Rupam Acharyya](https://www.cs.rochester.edu/u/racharyy/) (postdoc at the University at Buffalo). 
 
 
 <span style="color:red">Diversity, Equity, and Inclusion</span>
