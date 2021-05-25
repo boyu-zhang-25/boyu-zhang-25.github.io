@@ -17,7 +17,7 @@ Bio
 ---
 Hi, I am Boyu, an incoming M.S./Ph.D. student at MIT. I am honored to be advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/) at the [Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/)!
 
-Previously, I obtained a B.S. in Computer Science with [Highest Honors in Research](https://www.cs.rochester.edu/undergraduate/degree-requirements.html)(1/118), Highest Distinction, and *Magna Cum Laude* from the University of Rochester. I am grateful to be advised by Professor [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Professor [Ehsan Hoque](https://hoques.com/), and Doctor [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). Also, I have two fantastic collaborators at U of R: [Dr. Anis Zaman](http://azaman13.github.io/) (eBay) and [Dr. Rupam Acharyya](https://www.cs.rochester.edu/u/racharyy/) (Micro Focus). 
+Previously, I obtained a B.S. in Computer Science with [Highest Honors in Research](https://www.cs.rochester.edu/undergraduate/degree-requirements.html) (1/118), Highest Distinction, and *Magna Cum Laude* from the University of Rochester. I am grateful to be advised by Professor [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Professor [Ehsan Hoque](https://hoques.com/), and Doctor [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). Also, I have two fantastic collaborators at U of R: [Dr. Anis Zaman](http://azaman13.github.io/) (eBay) and [Dr. Rupam Acharyya](https://www.cs.rochester.edu/u/racharyy/) (Micro Focus). 
 
 Research
 ---
