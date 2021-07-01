@@ -11,12 +11,13 @@ author_profile: true
 Peer-reviewed Conferences
 ---
 [Ach+20] Rupam Acharyya, Ankani Chattoraj\*, **Boyu Zhang**\*, Shouman Das, and Daniel Stefankovic. "Statistical Mechanical Analysis of Neural Network Pruning." In:
-_37th Conference on Uncertainty in Artificial Intelligence (UAI 2021)_. To appear. 2021. URL: https://arxiv.org/abs/2006.16617.
+_37th Conference on Uncertainty in Artificial Intelligence (UAI 2021)_. 2021. URL: https://www.auai.org/uai2021/pdf/uai2021.750.preliminary.pdf.
+
+[Zam+21] Anis Zaman, Rupam Acharyya, **Boyu Zhang** , Vincent Silenzio, Ehsan Hoque, and Henry Kautz. "Aggregating Search Logs and Self-esteem for Identifying Individuals with History of Suicide Ideation". In: _15th EAI International Conference on Pervasive Computing Technologies for Healthcare (EAI PervasiveHealth 2021)_. Submitted. 2021.
 
 
 Journal Articles
 ---
-[Zam+19] Anis Zaman, Rupam Acharyya, **Boyu Zhang** , Vincent Silenzio, Ehsan Hoque, and Henry Kautz. "Aggregating Search Logs and Self-esteem for Identifying Individuals with History of Suicide Ideation". In: _IEEE Pervasive Computing: Special Issue on Mental Health, Mood, and Emotion_ (2019). Submitted.
 
 [Zha+20] **Boyu Zhang**\*, Anis Zaman\*, Vincent Silenzio, Henry Kautz, and Ehsan Hoque. "The Relationships of Deteriorating Depression and Anxiety With Longitudinal Behavioral Changes in Google and YouTube Use During COVID-19: Observational Study". In: _JMIR Mental Health_ (Nov. 2020). IF: 3.54. URL: https://mental.jmir.org/2020/11/e24012.
 

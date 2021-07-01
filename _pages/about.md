@@ -23,8 +23,8 @@ Research
 ---
 My research interest lies in Affective Computing, Machine Learning, and HCI. In particular, I focus on: 
 
+* Designing explainable, robust, and efficient data-driven algorithms for high-stakes human-centered settings (e.g., emotion recognition and healthcare), minimizing the bias and opacity in automated agents.
 * Developing computation tools to sense human behaviors, augment human ability, and promote well-being with personalized interventions.
-* Designing explainable and robust data-driven algorithms for high-stakes healthcare settings, minimizing the bias and opacity in automated agents.
 
 Please see my publications and CV for more details.
 
