@@ -9,20 +9,13 @@ redirect_from:
 
 Boyu Zhang is a Ph.D. student at MIT, advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/) in the [Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/). He is also a trainee at Harvard Medical School and Brigham and Women's Hospital, advised by Dr. [Charles A. Czeisler](https://connects.catalyst.harvard.edu/Profiles/display/Person/24237) and awarded the Ruth L. Kirschstein National Research Service Award (NRSA) from NIH. Other current mentors and collaborators of Boyu include Dr. [Daniel Goldenholz](https://connects.catalyst.harvard.edu/Profiles/display/Person/27784) and Prof. [Jeanne F. Duffy](https://connects.catalyst.harvard.edu/Profiles/display/Person/17373). 
 
-Boyu's research interest lies in artificial intelligence (AI) for health and wellness. Specifically, he investigates time series representation learning and physiology-informed machine learning for sleep, circadian rhythm, and mental health with wearable technology. The ultimate goal of his research is to develop AI systems that can sense and enhance physical and mental well-being through clinically validated physiology pathways. He is developing AI systems that deliver personalized, non-invasive, and passive phenotyping of well-being based on wearable signals, as well as offering context-aware behavioral interventions in a preventive manner. Additionally, he is exploring how these AI systems and wearable signals can enable short- and long-term forecasts of adverse health events and generalize across a broad range of diseases. 
-
-His work will bridge the gap between controlled, clinical knowledge of human physiology and real-world data from wearable sensors. He aims to ensure that AI remains accurate, fair, and clinically meaningful when deployed in ambulatory environments. He envisions a future where AI seamlessly integrates with our daily lives through wearable devices, providing actionable insights based on clinical and translational science, with user privacy at the core.
-
-As an interdisciplinary scientist and technologist, Boyu works closely with industry partners, publishes in top venues, and holds multiple US patents. For more details, please see his CV. 
+Boyu's research interest lies in artificial intelligence (AI) for health and wellness. Specifically, he investigates time series representation learning and physiology-informed machine learning for sleep, circadian rhythm, and mental health with wearable technology. As an interdisciplinary scientist and technologist, Boyu works closely with industry partners, publishes in top venues, and holds multiple US patents. For more information, please see Boyu's CV. 
 
 Bio
 ---
 Boyu was a research intern at [Takeda Pharmaceuticals](https://www.takeda.com/en-us) (Data Sciences Institute, Summer 2024), working on [DECODE](https://theactigraph.com/decode/nocturnal-scratch), and [Empatica](https://www.empatica.com/) (Data Science Team, Spring 2023). Some current research projects of Boyu are supported by [Samsung Research America](https://sra.samsung.com/) and the [AASM Foundation](https://foundation.aasm.org/strategic-research-award/) (he wrote the grant). 
 
 Prior to joining MIT, Boyu obtained a B.S. in Computer Science with [Highest Honors in Research](https://www.cs.rochester.edu/undergraduate/degree-requirements.html) (1/118), Highest Distinction, and *Magna Cum Laude* from the University of Rochester. Boyu was a Finalist of the 2021 [CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/#2021). He had a great time working with Prof. [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Prof. [Ehsan Hoque](https://hoques.com/), and Dr. [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). 
-
-For more publications, awards, and information, please see Boyu's CV. 
-
 
 Want to chat with Boyu?
 ---
