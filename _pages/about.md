@@ -9,7 +9,7 @@ redirect_from:
 
 Boyu Zhang is a Ph.D. student at MIT, advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/) in the [Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/). He is also a trainee at Harvard Medical School and Brigham and Women's Hospital, advised by Dr. [Charles A. Czeisler](https://connects.catalyst.harvard.edu/Profiles/display/Person/24237) and awarded the Ruth L. Kirschstein National Research Service Award (NRSA) from NIH. Other current mentors and collaborators of Boyu include Dr. [Daniel Goldenholz](https://connects.catalyst.harvard.edu/Profiles/display/Person/27784) and Prof. [Jeanne F. Duffy](https://connects.catalyst.harvard.edu/Profiles/display/Person/17373). 
 
-Boyu's research interest lies in artificial intelligence (AI) for health and wellness. Specifically, he investigates time series representation learning and physiology-informed machine learning for sleep, circadian rhythm, and mental health with wearable technology. As an interdisciplinary scientist and technologist, Boyu works closely with industry partners, publishes in top venues, and holds multiple US patents. For more information, please see Boyu's CV. 
+Boyu's research interest lies in artificial intelligence (AI) for health and wellness. Specifically, he investigates time series representation learning, physiology-informed machine learning, and digital phenotyping for sleep, circadian rhythm, and mental health based on wearable biosignals. As an interdisciplinary scientist and technologist, Boyu works closely with industry partners, publishes in top venues, and holds multiple US patents. Some of Boyu's research outcome are being commercialized. For more information, please see Boyu's CV. 
 
 Bio
 ---
