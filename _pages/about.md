@@ -13,7 +13,7 @@ Boyu's research interest lies in artificial intelligence (AI) for health. Specif
 
 Bio
 ---
-Boyu has worked as a research intern at [Sanofi](https://www.sanofi.com/en) (Biostatistics Evidence Generation and Decision Sciences), [Eight Sleep](https://www.eightsleep.com/) (AI/ML), [Takeda Pharmaceuticals](https://www.takeda.com/en-us) (Data Sciences Institute), and [Empatica](https://www.empatica.com/) (Data Science Team). Some current research projects of Boyu are supported by [Samsung Research America](https://sra.samsung.com/) and the [AASM Foundation](https://foundation.aasm.org/strategic-research-award/) (he wrote the grant). 
+Boyu has worked as a research intern at [Eight Sleep](https://www.eightsleep.com/) (AI/ML), [Takeda Pharmaceuticals](https://www.takeda.com/en-us) (Data Sciences Institute), and [Empatica](https://www.empatica.com/) (Data Science Team). Some current research projects of Boyu are supported by [Samsung Research America](https://sra.samsung.com/) and the [AASM Foundation](https://foundation.aasm.org/strategic-research-award/) (he wrote the grant). 
 
 Prior to joining MIT, Boyu obtained a B.S. in Computer Science with [Highest Honors in Research](https://www.cs.rochester.edu/undergraduate/degree-requirements.html) (1/118), Highest Distinction, and *Magna Cum Laude* from the University of Rochester. Boyu was a Finalist of the 2021 [CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/#2021). He had a great time working with Prof. [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Prof. [Ehsan Hoque](https://hoques.com/), and Dr. [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). 
 
