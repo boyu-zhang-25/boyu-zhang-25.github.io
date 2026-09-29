@@ -9,11 +9,7 @@ redirect_from:
 
 Boyu Zhang is a Ph.D. student at MIT, advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/) in the [Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/). He is also a trainee at Harvard Medical School and Brigham and Women's Hospital, advised by Dr. [Charles A. Czeisler](https://connects.catalyst.harvard.edu/Profiles/display/Person/24237) and awarded the Ruth L. Kirschstein National Research Service Award (NRSA) from NIH. Other mentors of Boyu include Dr. [Daniel Goldenholz](https://connects.catalyst.harvard.edu/Profiles/display/Person/27784) and Prof. [Jeanne F. Duffy](https://connects.catalyst.harvard.edu/Profiles/display/Person/17373). 
 
-Boyu's research interest lies in artificial intelligence (AI) for health. Specifically, he investigates non-invaisve sensing and interventions for sleep, circadian rhythm, and holistic well-being. Boyu works closely with industry partners and holds multiple patents. Some of Boyu's research outcome have been commercialized. 
-
-Bio
----
-Boyu has worked in both tech and pharma. Some current research projects of Boyu are supported by [Samsung Research America](https://sra.samsung.com/) and the [AASM Foundation](https://foundation.aasm.org/strategic-research-award/) (he wrote the grant). 
+Boyu's research interest lies in artificial intelligence (AI) for health. Specifically, he investigates non-invaisve sensing and interventions for sleep, circadian rhythm, and performance. Boyu works closely with industry partners, and some of Boyu's IPs have been commercialized. Boyu has also worked in tech and pharma as research intern.  
 
 Prior to joining MIT and Harvard, Boyu obtained a B.S. in Computer Science with [Highest Honors in Research](https://www.cs.rochester.edu/undergraduate/degree-requirements.html) (1/118), Highest Distinction, and *Magna Cum Laude* from the University of Rochester. Boyu was a Finalist of the 2021 [CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/#2021). He had a great time working with Prof. [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Prof. [Ehsan Hoque](https://hoques.com/), and Dr. [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). 
 
