@@ -9,13 +9,13 @@ redirect_from:
 
 Boyu Zhang is a Ph.D. student at MIT, advised by Prof. [Rosalind Picard](https://web.media.mit.edu/~picard/) in the [Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/). He is also a trainee at Harvard Medical School and Brigham and Women's Hospital, advised by Dr. [Charles A. Czeisler](https://connects.catalyst.harvard.edu/Profiles/display/Person/24237) and awarded the Ruth L. Kirschstein National Research Service Award (NRSA) from NIH. Other mentors of Boyu include Dr. [Daniel Goldenholz](https://connects.catalyst.harvard.edu/Profiles/display/Person/27784) and Prof. [Jeanne F. Duffy](https://connects.catalyst.harvard.edu/Profiles/display/Person/17373). 
 
-Boyu's research interest lies in artificial intelligence (AI) for health. Specifically, he investigates non-invaisve sensing and interventions for sleep, circadian rhythm, and performance. Boyu works closely with industry partners and holds IPs that has been commercialized. Boyu has also worked in tech and pharma as research intern.  
+Boyu's research interest lies in artificial intelligence (AI) for health. Specifically, he investigates non-invaisve sensing and interventions for sleep, circadian rhythm, and performance. Boyu works closely with industry partners and holds commercialized IPs. Boyu has also worked in tech and pharma as research intern.  
 
 Prior to joining MIT and Harvard, Boyu obtained a B.S. in Computer Science with [Highest Honors in Research](https://www.cs.rochester.edu/undergraduate/degree-requirements.html) (1/118), Highest Distinction, and *Magna Cum Laude* from the University of Rochester. Boyu was a Finalist of the 2021 [CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/#2021). He had a great time working with Prof. [Henry Kautz](https://www.cs.rochester.edu/u/kautz/), Prof. [Ehsan Hoque](https://hoques.com/), and Dr. [Vincent Silenzio](https://sph.rutgers.edu/concentrations/urban-global-public-health/faculty-member.php?id=36094). 
 
 Want to chat with Boyu?
 ---
-Given his personal experience, Boyu is always open to talk to individuals from complex family structures, survived traumatic events, and/or suffered from depression. Please feel free to reach out!
+Boyu is always open to talk! Please feel free to reach out!
 
 <span style="color:red">**Disclaimer**</span>:
 Boyu gets a lot of inquiries, e.g., Ph.D. applications and industry collaboration. Boyu does not provide any medical advice. Boyu is not a healthcare provider by any definition. For industry collaboration, please contact the [MIT Media Lab](https://www.media.mit.edu/about/funding-and-support/) directly. 
